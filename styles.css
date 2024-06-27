@@ -1,0 +1,31 @@
+body {
+    background-color: rgba(105, 105, 105, 0.522);
+}
+
+h1 {
+   
+    text-align: center;
+}
+
+.maindiv {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: rgba(248, 249, 250, 1);
+    padding: 10px;
+    border-radius: 8px;
+    border: solid black;
+    box-shadow: 4px 4px 4px;
+}
+
+
+.navdiv {
+    padding-left: 55px;
+    
+}
+
+.renderdiv {
+    padding: 20px;
+    border-radius: 8px;
+    border: solid black;
+    text-align: center;
+}
